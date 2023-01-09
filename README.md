@@ -1,12 +1,18 @@
-### Hi there 👋
-**yeffreycode/yeffreycode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Yefrey Espinoza
 
-Here are some ideas to get you started:
+Hello! I'm a full stack developer with experience in the following technologies:
 
-- 🔭 I’m currently working on owner web pages.
-- 🌱 I’m currently learning web scrapping and data science. and English.
-- 👯 I’m looking to collaborate on any project relacinate with innovation.
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: he.
-- ⚡ Fun fact: ..
+- JavaScript
+- React
+- Node.js
+- MySQL
+- MongoDB
+- CSS3
+- HTML5
+- Tailwind CSS
+- Next.js
+- Express
+
+Feel free to check out my repositories to see some of the projects I've been working on. I'm always looking to learn and improve, so don't hesitate to connect with me on GitHub or LinkedIn.
+
+Thanks for visiting my profile!
