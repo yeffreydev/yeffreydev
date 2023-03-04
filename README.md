@@ -1,6 +1,6 @@
 # Yefrey Espinoza
 
-Hello! I'm a full stack developer with experience in the following technologies:
+Hello! I'm a full software developer
 
 - JavaScript
 - React
