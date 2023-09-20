@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yeffreydev" alt="yeffreydev" /></a> </p>
 
-- 🔭 I’m currently working on a personal project ["Mini Games"](https://games-for-you.vercel.app/)
-
-- 🌱 I’m currently learning **Python, Blockchain.**
-
-- 👨‍💻 All of my projects are available at [https://yeffrey-portfolio.vercel.app/](https://yeffrey-portfolio.vercel.app/)
+My dream is to be part of the Be Master tools team
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
